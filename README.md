@@ -18,10 +18,10 @@ Here are some ideas to get you started:
 </p>
 
 <p align='center'>
-  <a href="https://edanfesi.github.io/"><img src="https://img.shields.io/badge/web page-0A84FF.svg?&style=for-the-badge&logo=google chrome&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/edanfesi/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://platzi.com/@edanfesi/"><img src="https://img.shields.io/badge/Platzi-98CA3F.svg?&style=for-the-badge&logo=platzi&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.hackerrank.com/edanfesi"><img src="https://img.shields.io/badge/hacker%20rank-2EC866.svg?&style=for-the-badge&logo=hackerrank&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://edanfesi.github.io/" target="_blank"><img src="https://img.shields.io/badge/web_page-0A84FF.svg?&style=for-the-badge&logo=googlechrome&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/edanfesi/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://platzi.com/@edanfesi/" target="_blank"><img src="https://img.shields.io/badge/Platzi-98CA3F.svg?&style=for-the-badge&logo=platzi&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.hackerrank.com/edanfesi" target="_blank"><img src="https://img.shields.io/badge/hacker%20rank-2EC866.svg?&style=for-the-badge&logo=hackerrank&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 <h1 align="center">Hey
@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 <h3>Some things about me</h3>
 <p>
-👨‍💻  &nbsp;&nbsp;I'm currently working as a Fullstack Developer at <a href="https://www.rappi.com.co/">@Rappi</a>.
+👨‍💻  &nbsp;&nbsp;I'm currently working as a Fullstack Developer at <a href="https://www.rappi.com.co/" target="_blank">@Rappi</a>.
 
 🌱 &nbsp;&nbsp;Now I am learning Swift and iOS Development, I love it.
 
